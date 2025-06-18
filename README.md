@@ -299,6 +299,3 @@ This project is part of a backend engineering bootcamp capstone for managing man
 
 ---
 
-## 📜 License
-
-MIT License © 2025 Kane Kabena
